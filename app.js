@@ -1,6 +1,6 @@
 var unirest = require('unirest');
 
-unirest.post('https://www.my-api.tk/vkn.php')
+unirest.post('https://www.my-api.co/vkn.php')
 
     .header('Accept', 'application/json')
     .send({ 
